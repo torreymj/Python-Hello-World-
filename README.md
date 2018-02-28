@@ -1,2 +1,2 @@
 # Python-Hello-World-
-Hello, World! Program in Python
+Basic Hello, World! Program in Python
